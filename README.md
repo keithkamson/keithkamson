@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Keith Kamson<br>👀 I'm interested in Anime, Gaming, Physics and Coding<br>🌱 I'm currently learning Python & Web Dev<br> ⚒️ Currently working on a Game Physics Engine
+👋 Hey, I'm Keith Kamson<br>👀 I'm interested in Anime, Gaming, Physics and Coding<br>🔭 Interested in Game Dev & Data Science<br>🌱 I'm currently learning Python & Machine Learning<br>⚒️ Currently working on a Game Physics Engine
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=49r42h242cfvpsu8pxhxmyp9h&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
