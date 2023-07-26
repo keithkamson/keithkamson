@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hey, I'm Keith Kamson Fernandes<br>⚽ My hobbies are Anime, Gaming, Physics and Coding<br>👀 Interested in Game Dev & Data Science<br>🌱 I'm currently learning Python & Machine Learning<br>⚒️ Currently working on a Game Physics Engine and a Machine Learning project
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=49r42h242cfvpsu8pxhxmyp9h&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keithkamson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keithkamson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/keithkamson) 
